@@ -1,0 +1,2 @@
+Сохранение результатов print в файл
+python "d:\git-projects\tets\Python\tets.py" > saveit.txt
